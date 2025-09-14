@@ -1,0 +1,5 @@
+my name is anjelo
+
+this is the 2nd line created from notepad
+
+this is the 3rd line crated added using nano command
