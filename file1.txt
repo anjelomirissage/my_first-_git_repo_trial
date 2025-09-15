@@ -1,3 +1,4 @@
+
 my name is anjelo
 
 this is the 2nd line created from notepad
@@ -5,3 +6,6 @@ this is the 2nd line created from notepad
 this is the 3rd line crated added using nano command
 
 adding another line from github online editor
+
+today is 2nd day 15/09/2025
+
